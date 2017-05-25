@@ -1,0 +1,100 @@
+DATASET: treebank test set
+
+CLASSIFICATION SCALE: coarse
+
+LABEL: positive
+positive: precision (division by zero)
+positive: recall (division by zero)
+positive: accuracy 1.0
+
+LABEL: negative
+negative: precision 0.772727272727
+negative: recall 0.062962962963
+negative: accuracy 0.878588235294
+
+LABEL: neutral
+neutral: precision 0.39603960396
+neutral: recall 0.106382978723
+neutral: accuracy 0.813176470588
+
+______________________________________________
+DATASET: treebank test set
+
+CLASSIFICATION SCALE: fine
+
+LABEL: positive
+positive: precision 0.673988439306
+positive: recall 0.756160830091
+positive: accuracy 0.778719397363
+
+LABEL: somewhat positive
+somewhat positive: precision division by zero
+somewhat positive: recall division by zero
+somewhat positive: accuracy 1.0
+
+LABEL: neutral
+neutral: precision 0.507269789984
+neutral: recall 0.463810930576
+neutral: accuracy 0.68549905838
+
+LABEL: somewhat negative
+somewhat negative: precision division by zero
+somewhat negative: recall division by zero
+somewhat negative: accuracy 1.0
+
+LABEL: negative
+negative: precision 0.6515625
+negative: recall 0.616863905325
+negative: accuracy 0.773069679849
+
+______________________________________________
+DATASET: my judgments
+
+CLASSIFICATION SCALE: coarse
+
+LABEL: positive
+positive: precision 0.904761904762
+positive: recall 0.826086956522
+positive: accuracy 0.882352941176
+
+LABEL: negative
+negative: precision 0.666666666667
+negative: recall 0.923076923077
+negative: accuracy 0.862745098039
+
+LABEL: neutral
+neutral: precision 0.545454545455
+neutral: recall 0.428571428571
+neutral: accuracy 0.745098039216
+
+______________________________________________
+DATASET: my judgments
+
+CLASSIFICATION SCALE: fine
+
+LABEL: positive
+positive: precision 0.0
+positive: recall division by zero
+positive: accuracy 0.882352941176
+
+LABEL: somewhat positive
+somewhat positive: precision 0.866666666667
+somewhat positive: recall 0.541666666667
+somewhat positive: accuracy 0.745098039216
+
+LABEL: neutral
+neutral: precision 0.272727272727
+neutral: recall 0.375
+neutral: accuracy 0.745098039216
+
+LABEL: somewhat negative
+somewhat negative: precision 0.5
+somewhat negative: recall 0.5
+somewhat negative: accuracy 0.764705882353
+
+LABEL: negative
+negative: precision 0.666666666667
+negative: recall 0.666666666667
+negative: accuracy 0.921568627451
+
+______________________________________________
